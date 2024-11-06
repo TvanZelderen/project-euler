@@ -1,7 +1,5 @@
-# Python_template
-This is my template for python projects
-
-To start this project please create a virtual environment using virtualenv
+# Working on project Euler 
+This is my repo for working on project euler (projecteuler.net) problems
 
 # To use the current environment
 virtualenv venv
